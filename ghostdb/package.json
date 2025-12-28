@@ -1,0 +1,13 @@
+{
+  "name": "ghostdb",
+  "version": "1.0.0",
+  "description": "Ultra-fast in-memory database for Ghost Key authentication system",
+  "main": "src/core/database.js",
+  "scripts": {
+    "test": "node test/test-database.js",
+    "benchmark": "node test/benchmark.js"
+  },
+  "keywords": ["database", "in-memory", "fast", "ghost-key"],
+  "author": "Ghost Key Team",
+  "license": "MIT"
+}

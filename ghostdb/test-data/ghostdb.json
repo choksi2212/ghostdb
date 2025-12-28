@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "timestamp": 1766848353663,
+  "collections": {
+    "users": {
+      "name": "users",
+      "schema": {
+        "fields": {
+          "username": "string",
+          "email": "string",
+          "age": "number"
+        },
+        "required": [
+          "username",
+          "email"
+        ]
+      },
+      "data": [
+        {
+          "username": "alice",
+          "email": "alice@example.com",
+          "age": 26,
+          "id": "1766848353567_vlz27zq37",
+          "_id": "1766848353567_vlz27zq37",
+          "_createdAt": 1766848353567,
+          "_updatedAt": 1766848353572
+        },
+        {
+          "username": "bob",
+          "email": "bob@example.com",
+          "age": 30,
+          "id": "1766848353567_qjaiq7noj",
+          "_id": "1766848353567_qjaiq7noj",
+          "_createdAt": 1766848353567,
+          "_updatedAt": 1766848353567
+        }
+      ],
+      "indexes": [],
+      "createdAt": 1766848353566,
+      "updatedAt": 1766848353646
+    }
+  }
+}
