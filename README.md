@@ -739,7 +739,7 @@ All documentation is included in `kiro/ghostdb/`:
 
 - **GitHub Repository**: [Repository URL](https://github.com/choksi2212/ghostdb)
 - **Demo Video**: [Video URL] 
-- **Blog Post**: [Blog URL Hashnode](ghostdb.hashnode.dev)
+- **Blog Post**: [Blog URL Hashnode](https://ghostdb.hashnode.dev)
 - **Blog Post**: [Blog URL LastminuteEngineering](https://lastminuteengineering.tech/blogs/69509a9946b3979c087eacd0?us=69505461713a83fa4f9c85bb)
 - **Kiro**: [kiro.dev](https://kiro.dev)
 - **Documentation**: See `./kiro/` folder
